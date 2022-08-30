@@ -1,0 +1,7 @@
+com\hnt\controller\AdminController.class
+com\hnt\FlightRepository.class
+com\hnt\entity\Flight.class
+com\hnt\RestClient.class
+com\hnt\service\AdminService.class
+com\hnt\AdminServiceApplication.class
+com\hnt\controller\BaseController.class
